@@ -1,0 +1,3 @@
+id,flow,priority,precondition,action,expected,evidence,status
+AT-001,{{flow_name}},P0,{{precondition}},{{action}},{{expected}},{{evidence}},planned
+AT-002,{{flow_name}},P0,{{precondition}},{{action}},{{expected}},{{evidence}},planned
